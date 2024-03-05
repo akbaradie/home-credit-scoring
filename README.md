@@ -10,15 +10,6 @@ Public data set from Kaggle can be found [here](https://www.kaggle.com/c/home-cr
 ## Steps Involved in the project
 - Exploratory Data Analysis to analyze and segment the customers
 - Data cleansing: Handling missing values, outliers, and invalid data
-- Data preprocessing: Data transformation, Principal Component Analysis (PCA), One hot and label encoding, handling imbalanced data, checking ML model assumptions
+- Data preprocessing: Data transformation, Principal Component Analysis (PCA), One hot and label encoding, and handling imbalanced data
 - Building ML model: Logistic regression, Ada Boost, Random Forest, Gradient Boosting, Light Gradient Boosting
 - Model evaluation: Accuracy, Recall, Precision, AUC
-
-## Exploratory Data Analysis (EDA)
-
-### Insights and recommendations
-1. 
-2. 
-3. 
-
-## Output
